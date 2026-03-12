@@ -1,0 +1,7 @@
+{
+    "name": "ImageContainer text visibility",
+    "goal": "Verify that the text 'the pictures' is visible on the page below the main image",
+    "environments": {"local": "http://localhost:3000", "staging": "", "production": ""},
+    "viewports": {"laptop": true, "mobile": false, "tablet": false, "desktop": true},
+    "definition": "AUTONOMOUS"
+  }
